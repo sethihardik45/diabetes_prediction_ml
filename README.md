@@ -1,7 +1,5 @@
-# Predict Diabetes with Machine Learning
-Here’s a suggested GitHub README for the project:
 
----
+
 
 # Diabetes Prediction Using Machine Learning
 
